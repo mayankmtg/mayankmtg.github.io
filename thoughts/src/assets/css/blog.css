@@ -1,0 +1,11 @@
+.profile-pic {
+    border-radius: 50%;
+}
+
+.none-text-decoration {
+    text-decoration: none;
+}
+
+.none-text-decoration:hover {
+    text-decoration: none;
+}
