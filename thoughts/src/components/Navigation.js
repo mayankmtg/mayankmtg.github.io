@@ -1,6 +1,8 @@
 
 import React from 'react';
 import logo from '../assets/images/logo_white.png';
+// CSS for the navigation tab can be found in public/assets/css
+// TODO::Move css to custom navigation.css inside src folder
 
 function Navigation() {
   return (

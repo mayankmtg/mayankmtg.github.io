@@ -379,12 +379,12 @@ input, textarea, select
 
 .social-list
 {
-    position: absolute;
+    position: fixed;
+    left:35px;
     bottom: 10px;
     text-align: center;
     color: #5B5B5B;
     font-size: 30px;
-    right:10%;
 }
 
 .social-list a
@@ -1337,7 +1337,7 @@ body.open .site-content
 
     .social-list
     {
-        right:5%;
+        left:10px;
         font-size: 15px;
     }
 

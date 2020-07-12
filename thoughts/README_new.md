@@ -19,3 +19,5 @@ Added logo and profile images
 Removed all other tabs (except Blog) as of now (commented)
 
 Main object covered: the code was structured a bit in this commit
+
+css for navigation is in public/assets/css/style.css
